@@ -126,7 +126,8 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8">
           <p className="text-center text-gray-400">
-            &copy; {new Date().getFullYear()} Quizzy. All rights reserved.
+            &copy; {new Date().getFullYear()} Quizzy - Haikal Fiqih. All rights
+            reserved.
           </p>
         </div>
       </div>
